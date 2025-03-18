@@ -200,7 +200,7 @@ Pour tous ces parcours de listes, il est conseillé d'utiliser des noms de varia
 Si cette valeur maximale est présente plusieurs fois dans la liste, on retournera l'indice de sa première occurrence.
 ```
 ### CORRECTION 
-# Ayoub LAABDALLAOUI
+
 ```
 l = [3,8,15,-1,0,12]
 def argmax(l):
@@ -216,7 +216,7 @@ l = [3,8,15,-1,0,12]
 ma, po =argmax(l)      
 print("max : ", ma, "------>", po)
 ```
-#### FIN CORRECTION
+
 
 <div id="pad_4.1" class="pad"></div>
 <script>
